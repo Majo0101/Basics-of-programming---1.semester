@@ -1,7 +1,4 @@
-//Marian Bodnar
-//Zaklady programovania
 //Zadanie 1
-
 
 #include <stdio.h>
 
