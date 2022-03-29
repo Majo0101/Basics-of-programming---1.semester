@@ -1,6 +1,4 @@
 //Zadanie c.4
-//Marian Bodnar
-//FI 1 extern
 
 #include <stdio.h>
 #include <stdlib.h>
