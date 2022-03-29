@@ -1,6 +1,4 @@
 // Zadanie cislo 2
-// Zaklady programovania FI 1 BC extern
-// Marian Bodnar
 
 #include <stdio.h>
 #include <stdlib.h>
