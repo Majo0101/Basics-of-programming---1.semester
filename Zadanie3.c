@@ -1,7 +1,4 @@
 // Zadanie c. 3
-// Marian Bodnar
-// FI 1 extern
-
 
 #include <stdio.h>                                  // Standartna kniznica
 #include <stdlib.h>
